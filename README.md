@@ -1,4 +1,4 @@
-## GENERAL OVERVIEW
+# GENERAL OVERVIEW
 Microsoft is looking into joining the film production industry , however in order gauge whether or not it should invest into this industry it requires research on how much they will gain from doing so. Microsoft requires to know the amount of financial effort that  goes into film production as well as which type of films have a high probabilty of generating maximum profits.
 
 # BUSINESS PROBLEM
