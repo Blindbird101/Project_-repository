@@ -16,4 +16,8 @@ From the IMDB dataset we extracted information on which genre does had a high vo
  The results were as follows; 1.most popular genre - Romance,Sci-Fi and Thriller
                               2.Average production budget - 31,587,760
                               3.Average return on interest - 59,682,180
-From the numbers dataset we observe that a low production budget leads to little or no return , on the other hand, the higher the production budget the higher the worldwide gross.However we also learn that a high production budget does not necessarily lead to a higher rate of interest. Secondly even though the worldwide gross increases with the production budget , it can be concluded that the return on interest will not be affected by increasing the production budget.
+From the numbers dataset we observe that a low production budget leads to little or no return , on the other hand, the higher the production budget the higher the worldwide gross.However we also learn that a high production budget does not necessarily lead to a higher rate of interest. Secondly even though the worldwide gross increases with the production budget , it can be concluded that the return on interest will not be affected by increasing the production budget.Finally the from the datasets we were able to see the correlation between the worldwide gross and the production budget.
+
+![figure 1 3](https://user-images.githubusercontent.com/110601097/187040295-6a5d95ae-f01f-487c-8446-7bd1d72afa74.png)
+![figure 1 2](https://user-images.githubusercontent.com/110601097/187040306-8b694cf2-0b47-4bc8-ae79-f4c49a0b3aa1.png)
+![correlation scatter plot](https://user-images.githubusercontent.com/110601097/187040337-9b27a785-4167-4e32-8256-107568bf5e33.png)
